@@ -30,16 +30,13 @@ npm start
 ```
 ```
 
-![Home_Page](https://i.im.ge/2022/09/27/1ytgD0.Sc1.jpg)
+![1ytz0J sc2](https://user-images.githubusercontent.com/44483687/202424138-5cf2dffb-cd26-4579-87fc-87e849ecf83e.jpg)
 
-![Login](https://i.im.ge/2022/09/27/1ytz0J.sc2.jpg)
+![1yA2YS sc3](https://user-images.githubusercontent.com/44483687/202424208-eccd2f0e-519c-4e5d-864d-83a28e6c18f9.jpg)
 
-![Menu_Page](https://i.im.ge/2022/09/27/1yA2YS.sc3.jpg)
+![1yAsyF sc4](https://user-images.githubusercontent.com/44483687/202424258-2362c9aa-8102-49d3-96b4-db58f129838c.jpg)
 
-![sc4](https://i.im.ge/2022/09/27/1yAsyF.sc4.jpg)
+![1yA5BD sc5](https://user-images.githubusercontent.com/44483687/202424292-1447d3e3-4e14-47fe-ac09-c7a6ff09466c.jpg)
 
-![sc5](https://i.im.ge/2022/09/27/1yA5BD.sc5.jpg)
-
-![sc6](https://i.im.ge/2022/09/27/1yAChm.sc6.jpg)
 ```
 ```
